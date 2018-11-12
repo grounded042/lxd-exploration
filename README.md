@@ -1,4 +1,4 @@
-#lxd-exploration
+# lxd-exploration
 
 I want to learn more about lxd. For now this is a basic setup to allow me to play around with things on MacOS via a VM stood up by Vagrant.
 
